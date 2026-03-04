@@ -8,6 +8,30 @@ Each link redirects to a repository containing a descriptive detailed README, in
 
 All project were built from either a Figma or a PNG design. They share React + Typescript.
 
+### Context Shop
+
+**Description:** a small e-commerce app with several features to showcase RTK capabilities
+
+**Built with:** Next.js, TailwindCSS, Redux Toolkit, Radix UI
+
+**Repository:** [jvmdo/space-tourism](https://github.com/jvmdo/context-shop)
+
+### Space Tourism
+
+**Description:** website for those who have interest in interplanetary travels
+
+**Built with:** Next.js SSG + RSC, TailwindCSS, a11y, CSS subgrids, ViewTransition
+
+**Repository:** [jvmdo/space-tourism](https://github.com/jvmdo/space-tourism-website)
+
+### Static Job Listings
+
+**Description:** an app to showcase nuqs and Query capabilities for listing and pagination
+
+**Built with:** nuqs, Tanstack Query, MSW, TailwindCSS, zod, Motion, Sonner, Ark UI, faker.js
+
+**Repository:** [jvmdo/url-shortening-app](https://github.com/jvmdo/static-job-listings)
+
 ### URL Shortening App
 
 **Description:** responsive web page for creating shorter links using CleanURI API. Lots of CSS tricks in this one.
@@ -70,7 +94,7 @@ All project were built from either a Figma or a PNG design. They share React + T
 
 **Built with:** Vite, Stitches, Radix UI, Alova, react-router-dom
 
-**Repository:** [jvmdo/loterias-app](https://github.com/jvmdo/framework-frontend-practice/tree/main/brainnco-loterias)
+**Repository:** [jvmdo/loterias-app](https://github.com/jvmdo/loterias-app)
 
 ### SSR Landing Page
 
